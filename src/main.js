@@ -1,4 +1,3 @@
-import './style.css'
 import './index.css'
 
 document.querySelector('#app').innerHTML = `
