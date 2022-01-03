@@ -1,4 +1,4 @@
-# vite-vanilla-js-template
+# vite-vanilla-tailwindv3-template
 
 Vite provides "Hot Module Replacement" (and FAST development).
 Targeted to modern browsers, it uses ESBuild (Evan Wallace).  AKA, it builds MUCH FASTER than bundlers like WebPack.
